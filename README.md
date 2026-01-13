@@ -5,7 +5,8 @@ Key Features:
 The model automatically evaluates exponential and polynomial (1-6) regression models, with a threshold R-squared value of 0.980.
 It accounts for varying initial concentrations to maintain accuracy over different samples.
 The model works off a standardized Excel format that is uploaded by the user. A template containing the experimental data is provided in the repository.
-Achieved Performance:
+
+Performance:
 
 The model was trained on Sauvignon Blanc data and validated against Pinot Grigio test data. The model achieved high predictive accuracy via low normalized root mean square error (NRMSE) values for all compounds, supporting the model's robustness across different wines.
 
