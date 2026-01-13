@@ -2,8 +2,8 @@ This project provides a method and Python model to predict the relative change i
 
 Key Features:
 
-Automatically evaluates exponential and polynomial (1-6) regression models, with a threshold R-squared value of 0.980.
-Accounts for varying initial concentrations to maintain accuracy over different samples.
+The model automatically evaluates exponential and polynomial (1-6) regression models, with a threshold R-squared value of 0.980.
+It accounts for varying initial concentrations to maintain accuracy over different samples.
 The model works off a standardized Excel format that is uploaded by the user. A template containing the experimental data is provided in the repository.
 Achieved Performance:
 
